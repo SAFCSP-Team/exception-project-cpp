@@ -1,14 +1,14 @@
 # Exception
 
-**Objective**
+### **Objective**
 The purpose of this project is to validate your understanding of exception handling in C++.
 
 
 
-**Problem**
+### **Problem**
 You are required to handle the exception in src/main.cpp. 
 
-**Implementation**
+### **Implementation**
 Handle the code to throw an exception if the name is empty.
 
 
