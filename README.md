@@ -1,7 +1,7 @@
 # Exception
 
 **Objective**
-The purpose of this project is to validate your understanding of the exception handling in C++.
+The purpose of this project is to validate your understanding of exception handling in C++.
 
 
 
@@ -9,7 +9,7 @@ The purpose of this project is to validate your understanding of the exception h
 You are required to handle the exception in src/main.cpp. 
 
 **Implementation**
-Hanel the code to throw an exception if the name is empty.
+Handle the code to throw an exception if the name is empty.
 
 
 ```cpp
@@ -20,7 +20,7 @@ int main() {
     
     string name = "";
 
-    // throw an exception if the name is empty
+    // Throw an exception if the name is empty
 
     cout << "Hello, " << name << "!" << endl;
     
