@@ -2,13 +2,11 @@
 using namespace std;
 
 int main() {
-    
+    // warp name initialization with try keyword
     string name = "";
-
-    // throw an exception if the name is empty
-
-    cout << "Hello, " << name << "!" << endl;
-    
-
-    return 0;
+    // if the name is empty throw an error with the message "Name can't be empty"
+   
+    // catch the exception and print the exception message
+  
+  return 0;
 }
